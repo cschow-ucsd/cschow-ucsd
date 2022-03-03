@@ -21,6 +21,3 @@
 <img src="meme.png" width="200"/>
 
 > Android Studio warms your PC :)
-
-## Last but not least
-[Hehe](hehe.txt)
